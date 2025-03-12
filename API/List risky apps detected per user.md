@@ -280,3 +280,7 @@ def main():
 if __name__ == "__main__":
     main()  # Entry point of the script
 ```
+
+### Sample <br>
+![image](https://github.com/user-attachments/assets/b5419be7-0636-4a51-87f8-38ff4f4abfaa)
+
