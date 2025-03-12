@@ -1,3 +1,4 @@
+# List risky apps detected per user
 ```python
 """
 Script to fetch discovered applications for users listed in a CSV file from the MDA (Mobile Device Analytics) portal
