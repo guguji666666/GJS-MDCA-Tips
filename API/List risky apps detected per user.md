@@ -1,11 +1,17 @@
 # List risky apps detected per user
-## 1. Find `streamId`
+## 1.Find `streamId`
 ![image](https://github.com/user-attachments/assets/9a0da083-d75e-4852-8df4-ad344ca91cce)
 
-## 2. Export all users
+## 2.Export all users, rename to `MDCAUsers.csv`
 ![image](https://github.com/user-attachments/assets/3a19b853-0185-4adb-b403-2e96d25f7920)
 
 ![image](https://github.com/user-attachments/assets/0d9de65f-10e8-4716-bb2f-af11575257f3)
+
+## 3.Create API Token in XDR portal
+![image](https://github.com/user-attachments/assets/6d72f86c-2647-4bec-b583-cce592eaf8dc)
+
+## 4.Find your MDA URL
+![image](https://github.com/user-attachments/assets/2ae7aa8e-3ea9-4ca9-9fc2-91d6dba90433)
 
 ## Python code
 ```python
@@ -30,7 +36,7 @@
 #    - Description: A unique identifier for the data stream, required in the API request payload.
 #    - How to Obtain: This can be obtained by performing a HAR (HTTP Archive) trace while accessing the MDA portal.
 #      Steps:
-#      - Log in to the MDA portal.
+#      - Log in to the MDA XDR portal.
 #      - Navigate to Cloud Apps > Cloud Discovery > Users.
 #      - Select a user and view their Discovered Apps.
 #      - Use browser developer tools (e.g., Chrome DevTools) to capture network traffic, export it as a HAR file, and
