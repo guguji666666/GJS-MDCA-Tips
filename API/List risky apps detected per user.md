@@ -1,4 +1,13 @@
 # List risky apps detected per user
+## 1. Find `streamId`
+![image](https://github.com/user-attachments/assets/9a0da083-d75e-4852-8df4-ad344ca91cce)
+
+## 2. Export all users
+![image](https://github.com/user-attachments/assets/3a19b853-0185-4adb-b403-2e96d25f7920)
+
+![image](https://github.com/user-attachments/assets/0d9de65f-10e8-4716-bb2f-af11575257f3)
+
+## Python code
 ```python
 # Script to fetch discovered applications for users listed in a CSV file from the MDA (Mobile Device Analytics) portal
 # and save the results to user-specific JSON files.
