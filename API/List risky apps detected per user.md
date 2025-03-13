@@ -8,7 +8,7 @@
 ![image](https://github.com/user-attachments/assets/0d9de65f-10e8-4716-bb2f-af11575257f3)
 
 ## 3.Create API Token in XDR portal
-![image](https://github.com/user-attachments/assets/6d72f86c-2647-4bec-b583-cce592eaf8dc)
+![image](https://github.com/user-attachments/assets/7b05f3d0-cbe7-4e13-9799-24da5c42b724)
 
 ## 4.Find your MDA URL
 ![image](https://github.com/user-attachments/assets/2ae7aa8e-3ea9-4ca9-9fc2-91d6dba90433)
