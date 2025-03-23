@@ -43,7 +43,7 @@ while has_next:
     request_data = {
         'filters': filters,  # Applying the filters, if any
         'skip': int(skipLength),  # Paginating by specifying how many records to skip
-        "limit": 70 # Numbers of results to get each time, max 100
+        "limit": 100 # Numbers of results to get each time, max 100
         # 'isScan': True,  # Optionally, some scan-related parameter might be utilized here
     }
 
