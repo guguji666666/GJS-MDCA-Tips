@@ -44,7 +44,7 @@ Write-Output "Output saved to $outputFilePath"
 
 ## Javascript
 
-### 1.List alerts with time range filter natively supported in API
+### 1. List alerts with time range filter natively supported in API
 ```js
 // Define the necessary variables
 const tokenKey = "<your token>"; // Replace with your actual API token
